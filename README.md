@@ -1,2 +1,2 @@
-# Teamlyk
+# obolib
 Demo
